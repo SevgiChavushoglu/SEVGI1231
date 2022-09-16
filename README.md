@@ -1,7 +1,8 @@
-### Hi there 👋
+### Sevgi Chavushoglu 
 
 ![Sevgi's github stats](https://github-readme-stats.vercel.app/api?username=SEVGI1231)
 <!-- Markdown -->
+
 
 <img src='https://random-memer.herokuapp.com/' title="Meme" width=400px
   height= "400px" alt="Please refresh the page if the meme doesn't show up.">
