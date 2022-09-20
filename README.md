@@ -19,8 +19,9 @@
 
 
 ### I'm thinking about building...
-- A personal portfolio site 
-- An app deciding the best route for a pub crawl using Google Maps API
+- A personal portfolio site (individual)
+- A scuba dive log app (individual)
+- A study resources app (team project)
 
 ### Contact Me
 
