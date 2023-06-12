@@ -1,6 +1,6 @@
 ### Sevgi Chavushoglu 
 
-👋 Trainee Software Enginering Scholar at <a href=https://academy.tech/>Academy</a> and Bsc Hons Biomedical Sciences Graduate 👩🏻‍🎓 from the University of Edinburgh.
+👋 Frontend Developer at <a href=https://github.com/retrocket> Retrocket </a> I took a fully funded, extensive training on Software Development from <a href=https://academy.tech/>Academy</a> and have Bsc Hons Biomedical Sciences Graduate degree from the University of Edinburgh.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEVGI1231&layout=compact)](https://github.com/SEVGI1231/github-readme-stats)
 
