@@ -10,7 +10,7 @@
 
 -Fullstack Dog Breed Voting App(PERN Stack) 👩🏻‍💻 <a href= https://github.com/SEVGI1231/dogBreedVote-frontend/settings/access?guidance_task> Frontend Code </a> | <a href=https://github.com/SEVGI1231/dogBreedVote> Backend Code </a>
 - Paste Bin App (PERN Stack) 👩🏻‍💻  <a href= https://github.com/maemastersdev/Pastebin-Project-Front-End >Frontend Code </a> | <a href=https://github.com/SEVGI1231/C5A5_pastebin > Backend Code </a>
--TV Show Summaries Site (React App) 👩🏻‍💻 <a href= https://github.com/SEVGI1231/tv-shows> Code </a>
+- TV Show Summaries Site (React App) 👩🏻‍💻 <a href= https://github.com/SEVGI1231/tv-shows> Code </a>
 
 
 ### I'm currently building...
